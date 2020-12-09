@@ -18,7 +18,6 @@ The goal is to code a minimum of an hour every day for the next 100 days, Become
 
 ### Day-4
 - [x] Completed Topics are: <br>
-👉 Randomisation
 
 
 ### Acknowledgedment
