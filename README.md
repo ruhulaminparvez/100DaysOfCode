@@ -21,8 +21,8 @@ The goal is to code a minimum of an hour every day for the next 100 days, Become
 👉 Randomization <br>
 👉 Project:
 
-### Day-4
-
+### Day-5
+- [x] Completed Topics are: <br>
 
 ### Acknowledgedment
 > This is an online course I've done at Udemy. Thanks to Dr. Angela Yu for creating this significant course! Link to the course:  [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/)
